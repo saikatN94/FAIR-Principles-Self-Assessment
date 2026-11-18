@@ -52,7 +52,7 @@ The file is large (about 2.4 MB) because the workshop graphics are embedded as b
 1. Push this repository to GitHub.
 2. Go to **Settings → Pages**.
 3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, and save.
-4. After a minute or two the site is live at `https://YOUR-USERNAME.github.io/fair-self-assessment-checklist/`.
+4. After a minute or two the site is live at `https://saikatN94.github.io/fair-self-assessment-checklist/`.
 
 ## Sources and attribution
 
