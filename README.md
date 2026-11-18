@@ -4,7 +4,7 @@ An interactive, single-page checklist for assessing one research object (a datas
 
 Built as the take-home companion to the **FAIR by Design** workshop (KIDS26, St. Jude Children's Research Hospital).
 
-**Live version:** https://YOUR-USERNAME.github.io/fair-self-assessment-checklist/
+**Live version:** https://saikatN94.github.io/fair-self-assessment-checklist/
 
 ## What it does
 
