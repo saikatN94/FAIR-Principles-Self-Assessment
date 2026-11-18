@@ -38,22 +38,6 @@ The page has no server and sends nothing anywhere.
 4. Remember that **Accessible does not mean open**. Controlled access can be fully FAIR.
 5. Start with the cheapest fix (a README, data dictionary, license statement, or recorded software versions), then re-run the checklist.
 
-## Repository contents
-
-| File | Purpose |
-|---|---|
-| `index.html` | The complete app: HTML, CSS, JavaScript, and embedded graphics in a single file |
-| `README.md` | This file |
-
-The file is large (about 2.4 MB) because the workshop graphics are embedded as base64 images so the checklist works offline as one portable file.
-
-## Deploying with GitHub Pages
-
-1. Push this repository to GitHub.
-2. Go to **Settings → Pages**.
-3. Under **Build and deployment**, set **Source** to *Deploy from a branch*, choose `main` and `/ (root)`, and save.
-4. After a minute or two the site is live at <https://saikatN94.github.io/FAIR-Principles-Self-Assessment/>.
-
 ## Sources and attribution
 
 - FAIR by Design workshop site: https://doraaobodo.github.io/fair-by-design/
